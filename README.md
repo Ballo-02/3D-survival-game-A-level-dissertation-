@@ -1,18 +1,26 @@
-# 3D-survival-game-A-level-dissertation-
-Assets and Libary folder missing as too big file to upload
+# 3D Survival Game A Level Dissertation
+A project intended for my computer science A Level course where I self-taught myself C# and Unity. I attained a A* in this project and documented this in the word and pdf document above. Below shows a brief description of what I wanted to achieve and the reason why there was a gap in this part of the game market.
 
-ANALYSIS
-OUTLINE OF THE PROJECT
+## Author 
+
+|   Name              |    Username     |
+|---------------------|-----------------|
+| Owen Ball           |   Ballo-02      |
+
+
+## Outline of the Project
 My project is based on a deserted island where you’ll have to use science, skills and chance to survive. I am using my personal knowledge from my past science lessons, new scientist magazine, friends/siblings, personal gaming knowledge and the WWW (World Wide Web) to gather my information. For example, using the process of distillation (separating a compound into different substances depending on their boiling point) which I would use for separating salt and water allowing the player to hydrate instead of having pure sea water what will cause dehydration. This idea can be explored in many different ways due to the massive spectrum of possible items to find, entities to kill and mainly science processes to explore. There will be a brief story to the game but will have alternative endings depending on what paths you take.
-THE PROBLEM
+## THE PROBLEM
 After many hours of playing multiple different game types (Adventure, Real-Time Strategy (RTS), Puzzle, Action, Stealth Shooter, and Combat) I have realized that the majority of survival adventure games are made to survive entities, and not take into account other dangerous such as savior heat stroke, dehydration, tides closing/opening and dramatic temperature plummets. This is where I thought of using science to survive and focus on real world problems you would face if deserted on an island, making this game unique and different to other survival adventure games. Films/series have looked deeply at this idea (Bear Grylls “Man vs Wild”) and have been very successful with the outcome as well as very popular books (“The knowledge”) but never have produced in a game.
+
+# Below is my word documented pasted in README.md (Not all of it fit and formatting is now removed)
  
 IDENTIFICATION OF STAKEHOLDERS
 My key stakeholders for this project would be 16-20-year old. I have come to this conclusion due to most people around the age of 16-17 understanding the key concepts of science experiments allowing them to understand and develop their knowledge on experiments used to survive. As I am 17 years of age with A’s in Biology Chemistry and Physics (GCSE)as well as a 19-year-old sister undertaking a biomedical degree (A*’s in all GCSE sciences and A’s in biology and chemistry in A level) at Sheffield University I’ll be able to know what different age groups will know and understand the concepts of science I will be looking at. This will allow me to focus on this age group and know what they’ll enjoy and dislike about different science experiments. I have also specifically picked out one of my class mates due to my prior knowledge of him enjoying science classes where he understood every topic and wasn’t afraid to voice his opinion on matter allowing me to alter my game to the user needs. My first stakeholder is Luke Callison Bailey who is a computer scientist and game designer going onto studying Game development at university. This therefore shows a keen insight to knowing what user’s would like in a game and would could be improved. As a hobby he spend most of his time trying a different genre of games as well as being in the correct age bracket at the current age if 18 going onto being a perfect candidate for one of my stakeholders 
-THE TARGET PLATFORM
+# THE TARGET PLATFORM
 My target platform is the PC (Personal Computer), I came to this conclusion after conversations with my stakeholders and research into similar games to what platform they’re played on. Business Insider also shows that in 2017 Pc/Mac was the most popular gaming platform, therefore the game I’m producing will have a bigger audience compared to other gaming platforms. One of the biggest reasons I came to this overall conclusion was due to the simplicity of creating a PC game. Compared to other platforms such as the Xbox, PlayStation, Nintendo, iPhone and android creating a game for the pc is so much simpler because of the research out there to create entities, items, maps and the software used, which has been worked on so much that you can create basic games with little knowledge to complex games using the web. X code used to make IOS apps also had a vast amount of knowledge on making a game but the game I wanted to produce couldn’t run on the average iOS device.
  
-USER NEEDS
+# USER NEEDS
 Questions- I created a survey using survey monkey and sent it to my computer science class to ask the final questions on the user needs. Below are the questions and the results of the survey. I chose my computer science class as my audiences due to the majority being heavily into games and loving playing them. They would have played the most modern and classic games and tried a variety of different types of games allowing me to get an accurate response. They also perfectly fit the age bracket I am looking at making them the ideal audience to send this survey.
 THE QUESTIONS USED FOR THE SURVEY
  
@@ -20,16 +28,16 @@ THE QUESTIONS USED FOR THE SURVEY
 
 
 
-ANSWERS TO THE QUESTIONNAIRE 
+# ANSWERS TO THE QUESTIONNAIRE 
 
 
 
 
 
 
-RESEARCH INTO EXISTING SIMILAR PRODUCTS
+## RESEARCH INTO EXISTING SIMILAR PRODUCTS
 The main the problem with current existing games is how inaccurate they’re to real life situations (leaving out important information you would need to survive in the real world) the games Minecraft, Ark: Survival Evolved, Day Z, and Rust are the most similar games to what I’m developing, they either incorporate the survival aspect of the game, the layout/map or the game type but none of them have the science used to survive in these situation which I and many others would enjoy exploring and playing . This makes my game unique to other games in the market allowing me to undertake ideas which have been brought to life in books (which have had pre-research into what attracts an audience and leaves them recommending the book to others) but not pre- existing games. I have researched and played all the listed games and specifically looked into the mechanism of the movements, the advantages, disadvantages, the platform, how they’re controlled, and the view on the character, if the view is interchangeable as well as reading the book (which is heavily based on the game) and highlighted the key aspects I’ll be using in the game. This allows me to bullet point what the gamers like and dislike, what should be in the game what I shouldn’t and many other key features I would use from other games.
-Minecraft
+### Minecraft
 One of the most similar games is Minecraft, this game as been defined by the Telegraph as a “Lego style adventure game” which “The video game puts players in a randomly-generated world where they can create their own structures and contraptions out of textured cubes”, one key aspect of Minecraft is the game mode survival “In 'survival' mode players must find their own building supplies and food. They find resources to craft tools while avoiding moving creatures (mobs) such as zombies and giant spiders”. The main reasons why this game is similar to the game I'm producing is because it’s an adventure game, its graphics isn’t too complicated, you use raw materials to craft items and the process’s used are very similar to the real world (the main feature of my game).
 Good Features
  For example in the game you can cook raw pork chop in a furnace to get cooked pork chop, this focuses on the idea of food poising. If you eat it raw then there’s a chance your hunger bar starts to decrease while turning green however if you eat the cooked pork chop your hunger starts to increase (You also need to kill a pig to gain this raw pork chop).  This shows there’s some vague ideas of using science in the game to survive.  This is very similar to the game I would like to produce due to using real world problems you would need to consider if stranded on a deserted island. In this situation you use the ore coal (other fuels can be used) to power the furnace which needs to be mined using crafted items, in Minecraft you have to start by gaining raw materials to create a pickaxe which then is used to mine harder to gain items to then craft an another item (pyramid scheme). This is very similar to game I would like to produce due to using a pyramid scheme where you will need basic items to create more complicated items which in turn will help you survive.
@@ -41,7 +49,7 @@ Limitations
 Due to the game being based on simple graphics as shown below (A) you will only be able to recognize items if you already know them to exist (due to the picture being painted with pixels). Minecraft tries to fix this issue by showing what an item is if you hover it, however it still limits the game. The simplicity of the game also limits its crafting abilities, this is shown in the crafting table where it has 3 blocks by 3 to craft an item this means there is a limited amount of different combinations when creating an item so making the rough shape of an item using certain resources may be similar to another item so it can’t be used twice. 
 Inspirations from Minecraft
 Minecraft’s crafting table and brewing stand GUI (B) gave me the idea to use a similar GUI in the game I will be producing. This way I will be able to combine raw materials to create tools used to survive instead of spending too much time on the graphics on building items. This feature of the game was one of the player’s favorite to use, this was because it allowed people to experiment with different combinations or research items which lead to newly discovers.
-Ark
+### Ark
 Ark: Survival Evolved is based on deserted island with only the player some tree’s (deserted island objects) and entities present, which is very similar to how my game is structured however Ark is based in the dinosaur era and focuses on retrieving (riding and capturing) different species of dinosaurs. Ark also has an interface like Minecraft that is used to craft items using different pieces of raw material, my game will also incorporate this making it easier to building items to help you start different science experiments. The official description of Ark Survival evolved is “As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape!”.
 
 Good Features
@@ -55,13 +63,13 @@ Ark uses a similar interface to craft items as Minecraft due to its simplicity a
 
 
 
-Day Z is based on survival, but instead of crafting items, they are found in the map due to it being based on a large abandoned city which has been overtaking by zombies. The survival aspect of this game links very well with my game using different items to survive however these items need to be crafted unlike Day Z. 
+### Day Z is based on survival, but instead of crafting items, they are found in the map due to it being based on a large abandoned city which has been overtaking by zombies. The survival aspect of this game links very well with my game using different items to survive however these items need to be crafted unlike Day Z. 
 Rust is a very similar game to what I’m producing such as using an abandoned island, crafting items to survive, and killing entities however doesn’t focus on more detailed survival techniques as mentioned earlier. Rust also incorporates buildings that have been left behind which the game I will be producing will not, but instead the items left behind will be purely based on the story line(depending on what story you choose at the beginning).
  Finally the majority of my ideas on survival is based on the book called The knowledge by Lewis Dartnell is describes key concepts on survival by using natural resources around him and what you would need to do to reboot society and survive. This book uses key science concepts to create fire, Reserve food, purify water and create fuel to power old and new machines used to survive as well as many other things |, which I will be able to incorporate in my game accurately. The book is based on virus that wipes out humanity but everything is left untouched however it doesn’t specify the specific details due to having no story line instead what you would need to do in that situation. This is different to my game but will include some outside objects and does involve a storyline unlike the book.
  
 
 
-EXPLANATION AND JUSTIFICATION OF FEATURES OF YOUR PRODUCT
+# EXPLANATION AND JUSTIFICATION OF FEATURES OF YOUR PRODUCT
 •	I will have a health bar instead of a certain amount of lives (this may change depending on the difficulty rating)
 •	They’ll be a Minecraft Crafting Interface instead of crafting button allowing items to be created and processes to happen
 •	Th character will find their story on the way depending on what paths they take
@@ -83,7 +91,7 @@ This problem can be solved using computational methods quite easily, below I’v
 
 
 
-Drop Down
+# Drop Down
 I’m going to be using a top down layout to show the key objects in my game. This allows me to create each section and go back to this diagram to make sure I haven’t missed any key points. It also allows me to abstract the route nodes making a basic layout of the game and only go into each individual hierarchy if I have time allowing the main points of the game to be made first. Therefore a priority order is made
 Abstraction
 I have used abstraction in my game to allow the basics/ main features of the game to be created. This is a key computational way to think because it takes the most important aspects of similar games (Minecraft in this example) and picks which is necessary for the game being produced. Abstraction also considers the time I have to create the game due to it focusing in the key points instead of extra unneeded parts of the game that isn’t needed and will take up my time.
@@ -97,35 +105,36 @@ I have used abstraction in my game to allow the basics/ main features of the gam
 •	The movement of the player
 •	The island
 •	Sound effects
-Thinking Ahead
+# Thinking Ahead
 This is used to get a brief layout of the game in the future therefore removing the aspect of not knowing where to start on the game. This allows the programmer to save time and build a foundation of a game before the details are incremented. It also reduces the chance of a problem occurring in the future due already having an idea how you’re going to solve the problem and not getting to it and two ideas not able to co-operate with each other causing a redo of part of the game.  
 
-The Controls: I will be using ASDW as my forward (w) backwards(s) left (d) and right (a) controls due to this being the most popular in most genres of games so players will be already used it and most comfortable playing this way. My toolbar can be quickly accessed by my numbers (1234...) and the space bar to jump. The mouse will be used to attack an item or use an item as well as the movement on the screen.
+## The Controls: 
+I will be using ASDW as my forward (w) backwards(s) left (d) and right (a) controls due to this being the most popular in most genres of games so players will be already used it and most comfortable playing this way. My toolbar can be quickly accessed by my numbers (1234...) and the space bar to jump. The mouse will be used to attack an item or use an item as well as the movement on the screen.
 Outputs on the screen: Assembling items will make a possible noise with some particle effect, the weather will change effecting the brightness of the screen and your condition of your health if the weather turns to a more dangerous state. 
 Map: An island surrounded by water and trees with a beach and a texture on the edge giving a rock effect
-Logically
+## Logically
 This way of thinking is used, due to the time restriction of making the game. Without this a simple problem what can be solved by using common sense has be picked on what computational method to use, then must be designed in a certain way to be solved by the chosen computational method which leads to too much time taken up. When looking at a problem what are the most logical ways of solving it such as when you click the start button to the game(“Play”) you move to the gameplay area and delete GUI (Graphic User Interface) showing you the starting buttons. This computational method also looks at other things in the game such as damage, this occurs when the player has fallen from x height or hit by an entity then the health bar decreases, or the time of day turns to night the screen brightness is reduced. It based all around common sense and some problems become more complicated when designing an algorithm or formula where sometimes its more sensible to think of it logically. This is where thinking logically comes in.
-Procedurally
+# Procedurally
 Thinking procedurally is used in the process of making the game to allow the game to make run smoothly and be as life like as possible. It states what else needs to happen when a function/procedure is run. Game States: Dehydration for when the character hasn’t had enough water the game screen will start to lower its brightness and possible start getting dizzy, Injury after fighting an entity or falling from a high distance. A noise will be simulated as well as your health being lowered and possible effects on the characters looks, Hunger after not eating enough food to maintain survival (will have the same effects as dehydration). 
-Concurrently
+## Concurrently
 This way of thinking will allow the game to be more efficient by doing different process at once (pipelining) such as updating the health bar as an entity makes a sound effect. It also relates to making the game run more smoothly by being as life like as possible
 COMPUTATIONAL METHODS
-Backtracking
+## Backtracking
 I used Backtracking to help me code the game, when trying to find realistic values for certain aspects of the game this method was used. This method creates solutions incrementally one by one but then goes onto removing failed solutions. For example, when adjusting variables in the code to make the game more lifelike, if the changed value is too high too or too low the value has failed and deletes a solution. This the creates another solution and repeats until the correct value is found and is used in the code.
 Data Mining
 Data Mining is used in the game to make it more appealing to the target audience by finding relevant data and making this game as enjoyable possible. This method finds common patterns in large sets of pre-existing data, allowing predictions to be made and know what users are more likely to want in a game. I can use this method to see what main items, objects and map layout are most commonly used, I can go onto differentiate between the most popular of these games and the least popular, therefore find what players prefer. This allows me to create of lost of unsensual things in the game and a foundation of what to start on when first developing the game.
-Heuristics
+## Heuristics
 This was used to allow the time to be saved when making the game, Heuristics solves this by using other methods when classics are too slow .Heuristics definition is “ a technique designed for solving a problem more quickly when classic methods are too slow, or for finding an approximate solution when classic methods fail to find any exact solution”. Using this method saves lots of unnecessary wasted time, where using complex methods (which require a mass amount of time to create setup and run) can be a lot slower. Where basic common sense can be used instead/more simplistic methods to create an approximate solution what will work just as good and can be a lot more affiant in the long run.
-Pipelining
+## Pipelining
 Pipelining is used to increase productivity allowing multiple process’s to be run at once therefore more time is saved, making the process of creating the game more affiant. I will use pipeline when controlling the day and night cycle as well as controlling the player movements as they would need to be at the same time. As well as this sounds effects would need to be heard as the player moves. This method can’t always work as some process’s need to have has other process’s run first therefore not at the same time. 
 Visualization
 I would use a Visualization method to help me solve a problem which is easier to understand when visualized, therefore the solution makes it a lot clearer on how to be solved. This eliminates me trying to solve a problem using algorithms and other methods which the problem can’t be modeled on. This prevents me having to find a completely different solution to a task instead of solving the problem. I could use this when entities attack me I could see what looks the best and seems the most life like.
-HARDWARE REQUIREMENTS
+# HARDWARE REQUIREMENTS
 A Monitor must be used to view/display the game itself/its graphics, this could be separate such as a desktop or attached like a gaming pc. A mouse is needed, this is used to move the camera around in the game/break items/ select items/select settings etc.. A mouse can be attached to a PC/laptop via a cable or Bluetooth connection or be built in such as a mousepad. Speakers are used as sound effects to the game such as fighting an entity or the waves on a beach. They can be, built in, attached, or connected via Bluetooth or wires but need to be loud and clear enough to understand what each sound effect represents. You’ll need roughly 25-30GB of secondary storage to download and keep the game in your memory, most pc’s/computers come with 500GB+ of secondary storage space making this size very manageable. Modern day PC’s/computers come with a minimum of 8GB of Ram which is perfectly fine for this game, it doesn’t run 4k or ultra-graphics meaning it won’t need how amounts of RAM to run unlike some other games such as Mass Effect. Finally you will need a powerful Processor due to the high demand that games requires such as an i5 4690 3.5GHz processor this allows for a nice game feel and no lag so the player can fully enjoy the game. The table below represent the hardware requirements for Visual Studio (the software I’ll be using to create the game.)
 
 
-SOFTWARE 
-REQUIREMENTS
+# SOFTWARE 
+## REQUIREMENTS
 What Development language will you be programming in and why? I will be programming in C#, this is because I will be devolving my game in unity which uses c# as its main coding language. After many assignments and games being made for practice at this language, I am now confident I will be able to make my game using it. If any problems to arise as I make my game my computer science/game design teacher will be able to help me with any techniques I am struggling with due to his vast knowledge with programming. There is large amount of data online on this language, it’s highly recommended and easy to program once basic instructions are understood.
 Software	Justification 
 C# run-time library	This allows the game to be run without using the software to test the game (Unity), this overall saves storage space and stops the user from seeing the source code (prevents copyright)
@@ -136,7 +145,7 @@ OpenAL Windows drivers
 Microsoft Visual Studio 2019	
 
 
-THE UTILITIES/LIBARIES
+## THE UTILITIES/LIBARIES
 The pictures show the standard packages for unity, this must be downloaded or added externally to the unity project. It comes with different parts such as 2D graphics which contains parts such as animation materials scripts and sprites, Camera’s for view (script included), vehicles and many more. I could use the SDK library which Unity uses to interact with Facebook, this allows the game to post live feeds of the best scores of the game and another way to log in via Facebook allowing a faster access to the game. Another way to post on social media is using twitter, this can be done by downloading an external asset called “Let’s tweet in unity”. The GetAccessTokenForNetwork is a utility specialized in unity to “get the client's access token for a particular network, if it has been set.” There is also other similar utilities used such as GetSourceId (Utility function to get the client's SourceID for unique identification) or SetAccessTokenForNetwork (Utility function that accepts the access token for a network after it's received from the server). These are all incorporated in unity without external downloads needed and can be used in many different ways.
  
 Re-look at
@@ -174,8 +183,8 @@ Number	Features	Justification	Reference
 17.	Sound effects	This gives the game some more character allowing the player to be more immersed into the scenario the character has been put in. 	N/A
 
  
-DESIGN
-STRUCTURE OF SOLUTION
+# DESIGN
+## STRUCTURE OF SOLUTION
 The Top Down model below shows all the features that I would like to implement in my game. Starting from the route node (Adventure Game) it then follows onto the main menu which then leads into the foundations of the game, these include: Settings, Scoreboard, Load Game and New Game. This structure was created based of the previous data found such as user needs users and requirements. This allows me to create the basics of the game first and remaining time go onto each branch and implement features which aren’t as important but would make the game more enjoyable. However some of the branches state how that node can be structured such as the sensitivity bar stating a scroll bar and needing an apply and save button. This helps me know what is essential when creating that node and again gives me a foundation for that specific function/procedure. I have colour coordinated each group making it easier to read and understand. These groups are based on classes making the algorithm/code more affiant and allow an external programmer to be able to understand more easily.
 
 
@@ -183,8 +192,8 @@ The Top Down model below shows all the features that I would like to implement i
 
 
 
-EXPLANATION OF EACH OF THE MODULES, METHODS, PROCEDURES AND FUNCTIONS REQUIRED
-COMPUTER GAMES
+# EXPLANATION OF EACH OF THE MODULES, METHODS, PROCEDURES AND FUNCTIONS REQUIRED
+## COMPUTER GAMES
 Procedure: Read level
 All the levels are put in .txt files labelled with which day it is. This procedure looks for a certain day (a variable depending on what part of the game is currently being played at) in a folder full of the levels and reads all the contents of the said file. The file contains the Day, the name of the day (the current level), the difficulty of the enemy’s and the weather. This is then given to the GUI to display all the data above on a screen for a couple seconds before the game starts like in COD (Call of Duty) black ops zombies (A) or  Dead rising (B). 
 
@@ -205,17 +214,17 @@ All the levels are put in .txt files labelled with which day it is. This procedu
 
 
 
-Function: Edit level difficulty 
+## Function: Edit level difficulty 
 This function looks inside all the level .txt files and edits the game difficultly depending on what has been chosen on the GUI. This will be done by displaying what the current level difficulty is (by using the Read level procedure on all the levels), by displaying this 
 Information on the screen and text boxes next each level allowing the player to edit this information. After a confirmation of the user changing the settings, the inputs will be changed to variables allowing each level to be written to the new difficulty selected.
 
-Procedure: Read Player Status
+## Procedure: Read Player Status
 This status is read from the characters .txt file, this contains the players: starting health and any updated health if loading into a pre-existing game, any conditions they are currently facing and what gender they are. This is kept in the main folder of the game and is needed to display their health and any conditions affecting them.
-Procedure: Weather
+## Procedure: Weather
 This randomly generates a number (python-Get Random) where each number is associated with a weather condition. After the number is generated, the game time is checked using an IF else, statements if it is between a certain amount of time then either day or night will be displayed by returning this value. This continues to return what weather condition the game will change to (every time it changes from day to night or night to day) 
-Function: Item pick
+## Function: Item pick
 Goes into the bag pack .txt file and uses an If/Else statement to see if there is any space, if not the console will return will “Bag Full” using an (C#-Console function) and return a null value back however if not the item will be added and the item count of the bag to be incremented by 1 for the next item is picked up to see if it’s full or not.
-Function: Item Remove
+## Function: Item Remove
 Goes into the bag pack .txt file and finds the selected item, which is wanting to be removed, this is then amended to delete the line plus an extra delete, so the format is kept tact without corrupting it for next time this file is read.
 CLASSES, ATTRIBUTES AND METHODS
 I have created 6 separate different class’s: Food, Player, Animals, Conditions, Equipment and Weather for my adventure game. These are the class’s a chose when developing my drop down diagram using specific groups in different colours each class is chosen down to how many individually process a class would have meaning if 2 or more process would work under that class, a class would be created.  
@@ -236,7 +245,7 @@ I have created 6 separate different class’s: Food, Player, Animals, Conditions
 
 
  
-KEY VARIABLES AND STRUCTURES
+## KEY VARIABLES AND STRUCTURES
 Player_health-Global Variable-Represents the health of the player. This needs to be accessed throughout the code due to constant changes from weather animal’s conditions etc...
 Player_Center_location-Variable-To know the center of the players position allowing the player to be moved by adding integer to their position therefore making them move.
 Random_Seed_Return-Variable-This is randomly generated number through a random number generator between 3-0 to see how many seeds are produced out of a plant/food
@@ -252,10 +261,10 @@ Weather_thunder-Variable- Allows the code to know if it’s true or false so pla
 item_Damage-Variable- Represents the power of an item. This cross referenced and used to attack an animal.
 Achievements-Variable- Finds all the achievements gained.    
  
-FILE FORMATS
+# FILE FORMATS
  
 
-ALGORITHM-PSEUDOCODE
+## ALGORITHM-PSEUDOCODE
 Plants()-This cross references with an external library what plants been picked, how much health it will it give the player and gives out whatever seed it makes(unless no seed is produced). The amount of seeds given back is based of a random number generator.
 	Search in “object/food/plants” for plant selected
 	If not found 
@@ -407,7 +416,7 @@ As shown on page on 27 this is what the GUI would roughly look like when the gam
 
 
 
-Starting Menu GUI
+# Starting Menu GUI
 This will be shown as soon as the game is launched allowing the player to pick either Play, Load or Settings. The Play button will put the player in a brand new world, The load button will show a selection of previously played games allowing the player to select one and continue with there progress and finally the settings button which will allow the player to alter different components of the game so the game can be played more to their liking. These buttons are set in the traditional layout of classic looking games such as ECO and Minecraft, the 4 elements are put in the background to bring to life the survival aspect. This is either going to be done with each element in each corner with a picture of the gameplay in the background (a) or a waterfall going down the middle behind the buttons to represent water with the letters water inside, fire on both bottom right hand corners again with the word fire in them, rock wall aside of the waterfall with the word earth engraved into them and finally a tornado coning in the background with the word wind inside to represent all the 4 elements.(B)
 
 
@@ -441,7 +450,7 @@ This will be shown as soon as the game is launched allowing the player to pick e
 
 
 
-Load Menu GUI
+## Load Menu GUI
 This will be displayed when the Load button is clicked in the start menu to show a selection of previously played games allowing the player to select one and continue with there progress. Each game save will display a little information of the game this includes the custom name of the save e.g. “Game Save Title1” (currently the default) the time and date it was saved on “Actual Date and Time-09/07/2019/12:27” and the game save time and day it was saved on “Time in Game and Day-19:37/Day 6”. Next to this information on the right is a button that lets the player load into that game save as well as another button in the bottom left that lets the player return to the starts screen if miss pressed.
 
 
@@ -453,10 +462,10 @@ This will be displayed when the Load button is clicked in the start menu to show
 
 
  
-The GUI for Altering Settings
+## The GUI for Altering Settings
 This will be displayed when the Settings button is clicked in the start menu or in game play, to allow the player to alter the game settings to their preferences making the game more enjoyable and easier to play specifically for them. In the top left there is a label that states sound effects with a tick box next to it for yes or no. If ticked the sound effects will be played if not the sound effects will be put on mute, this can be changed by a simple click for on or off by the player. Below this is a control button once clicked a .txt file will open with an easy to understand/ read format allowing the player to easily adjust the button layout. To save their changes they would need to click save as it’s crossed off. Underneath this is a label that states sensitivity, this is accompanied with an adjustable scroll bar beneath with the triangle being the pivot point moving the pivot to the right will increase the sensitivity moving it to the left will decrease it. Again under this a similar principle but for the screen brightness which works the similar  to the previous scrollbar (Sensitivity) as its moved to the right the brightness will increase as its moved to the left it will be decreased. In the bottom left is a return button to go back to the start menu but if the save button isn’t pressed in the bottom right then all the changes to settings won’t be changes (excluding the controls due to that being separate).
  
-The GUI when the game is paused
+## The GUI when the game is paused
 This is displayed when the the game is paused it has the 3 buttons in the middle like the start screen which are Resume, Save and settings with an extra return button in the bottom left of the screen. Th Resume button goes back to the gameplay, the save button exits and saves the current game to be loaded and played another time and the settings button goes to the settings GUI to be altered to the players preference. The back button returns the player to the start menu without saving the progress of the players world.
  
 
@@ -474,7 +483,7 @@ This is displayed when the the game is paused it has the 3 buttons in the middle
 
  
 
-DESCRIPTION AND JUSTIFICATION OF THE USABILITY FEATURES
+# DESCRIPTION AND JUSTIFICATION OF THE USABILITY FEATURES
 The Inputs and outputs as default will be stated below for the game controls. This has been ultimately decided from research into different games and what my stake holders thought would be most appropriate. The moving controls are all based around one area on the default keyboard, reducing the chance of wrist restrain and complications. The left and right click of the mouse is used as the same as it would be in similar games allowing the player to not learn any new controls, this is the same with the spacebar and scroll wheel. The speakers will output sound effects like in real life making the experience of the game feel more authentic.
 •	A-move left
 •	S-move backwards
@@ -501,8 +510,8 @@ Day and Night 	Testing if the day and night cycle work	To make sure the days are
 Swim	If the player can swim and if the player can drown	So the player doesn’t drowned and can actual swim to different parts of the island
 The Map	Can’t fall through the floor no glitches 	Allows the player to actually play the game instead of a glitch which the map has stopped them from continuing the game
 
-DEVELOPMENT AND TESTING
-CODED SOLUTION
+# DEVELOPMENT AND TESTING
+## CODED SOLUTION
 This bullet pointed list states how I created my game and overcome the problems I Initially faced.
 •	Created the structure of the files
 •	Created the  player
@@ -514,17 +523,17 @@ This bullet pointed list states how I created my game and overcome the problems 
 •	Added day and night cycle
 •	Made tree physics (hitting a tree with an axe and it falling over)
 
-THE DIFFERENT PROTOTYPES
+## THE DIFFERENT PROTOTYPES
 I created 3 different prototypes based on big jumps between what I am about to code next and the previous coded versions. 
 Prototype one included an imported map, coding for the movement of the player and the structure of the files. I then used this structure to import guns and drag and drop skins into the guns and hands then to position these in the correct format. I could see where they needed to go due the first person camera added here. I finally added sound effects.
 Prototype two was all based around the login system. This was created by first adding a new scene to the game to go onto designing the GUI(graphic User Interface). This involved resizing 3d object adding text boxes and making password text boxes produce hash symbols when typing in. I then created a camera to over the look the 3d model making the illusion that it was 2D. I then had to state the rules meaning I had to assign buttons to a function for example make them check if the username had already been taken if the password matches to an account already created or encrypting/decrypting the password.
 Prototype three was based around creating the day and night cycle facing the issue stated by Luke Callison Bailey (one of the stakeholders) of too many trees. I created the code for the day and night cycle using the position of the light to change and the brightness of it. I then had to create a time for each day which I worked out 10  minutes after research was the best time for full day in the game. Finally I added paths to the game so there wasn’t as much cluttered tree’s to fix the users issue but then decided to go onto added tree physics which required me to remove the pre-made trees and replace with the new ones. I then made it so it 1 is pressed on the key board the axe (imported from prototype one) is I n hand and three hits t a tree would make it fall then disappear after 4 seconds.
-FEATURES THAT WASN’T ADDED BASED ON THE PREVIOUS DROP-DOWN MODEL 
+## FEATURES THAT WASN’T ADDED BASED ON THE PREVIOUS DROP-DOWN MODEL 
 The drop-down model below is imported from the previous analysis making it easier to compare too. I am going to split each of the model into parts to show where they have fitted into creating the game.
 Below is part of the Drop-Down model for the settings of the game. Due to this not being an essential part of the game, where the game can run without it smoothly it wasn’t added (due to games time deadline). However for future development of the game this would be added, as it does allow the game to be played more to a players preferences and would be created as one of the next tasks. I made this decision based on my stakeholders and what I thought the game needed to have and didn’t need.
    Above is another part of the Drop-Down diagram that couldn’t be added due to time. This part was based around enemies and things the player would have to fight against in the game. This would of made the game  more challenging for the player but wasn’t added due to the game wanting to be based more around factual things to survive then fighting enemies. 
 The scoreboard wasn’t added due to not being essential part of the game and wouldn’t affect the actual gameplay, only to be used to compare against other players. This would have been added if further time was given but wouldn’t be close to be creating near the current position.
-FIRST PROTOTYPE -THE BASIC’S OF THE GAME
+## FIRST PROTOTYPE -THE BASIC’S OF THE GAME
  
 I first created a new 3D game in the unity platform Calling it “Prototype one” I found a specific tutorial for a very similar game and thought by started to use some of the tutorial’s ideas would make a good foundation for my game. I proceeded to download the assets from this tutorial and drag and drop them into my assets folder to my game. This proceeded by automatically adding a pre-made map.
 
